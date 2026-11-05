@@ -9,7 +9,7 @@
   const dialog = document.querySelector('#sample-dialog');
   const expand = document.querySelector('#expand-sample');
   let revision = 0;
-  const path = (view) => `assets/samples/${state.pattern}-${state.theme}-${view}.webp?v=materials3`;
+  const path = (view) => `assets/samples/${state.pattern}-${state.theme}-${view}.webp?v=pillows4`;
   async function render() {
     const current = ++revision;
     const src = path(state.view);
