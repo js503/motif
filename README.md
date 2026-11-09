@@ -1,6 +1,6 @@
-# motif
+# hannai
 
-Public landing page for motif, an iPhone workspace for preparing digital artwork listings.
+Public landing page for hannai, an iPhone workspace for preparing digital artwork listings.
 
 Site: https://js503.github.io/motif/
 
